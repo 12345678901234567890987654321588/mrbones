@@ -1,2 +1,2 @@
-# mrbones
-is the owner of the boiled one
+# the boiled one
+paralyzes people
